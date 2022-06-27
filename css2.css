@@ -1,0 +1,6 @@
+ul{
+    list-style-image: url("aa.jpg"):
+}
+ul li{
+  background-color: red;
+}

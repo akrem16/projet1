@@ -1,0 +1,14 @@
+div{
+    border: 0.1px black solid;
+    width: 750px;
+    height:750px;
+     background:url("aa.jpg") ;
+     background-size: 650px 650px;
+      background-repeat: no-repeat;
+}
+div:hover{
+   background: url("bb.jpg");
+    background-size: 650px 650px;
+    background-repeat: no-repeat;
+}
+
